@@ -1,22 +1,4 @@
-// import javax.swing.BorderFactory;
-// import javax.swing.ImageIcon;
-// import javax.swing.JFileChooser;
-// import javax.swing.JFrame;
-// import javax.swing.JMenu;
-// import javax.swing.JMenuBar;
-// import javax.swing.JMenuItem;
-// import javax.swing.JScrollPane;
-// import javax.swing.JTextArea;
-// import javax.swing.KeyStroke;
-// import javax.swing.UIManager;
-// import java.io.BufferedReader;
-// import java.io.BufferedWriter;
-// import java.io.FileReader;
-// import java.io.FileWriter;
-// import java.io.IOException;
-// import java.awt.event.ActionEvent;
-// import java.awt.event.ActionListener;
-// import java.awt.event.KeyEvent;
+
 import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.*;
 import javax.swing.event.CaretEvent;
